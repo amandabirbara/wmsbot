@@ -1,0 +1,6 @@
+#pragma config(Motor,  port1,           LeftMotor1,           tmotorNormal)
+#pragma config(Motor,  port1,           RightsMotor1,           tmotorNormal)
+#pragma config(Motor,  port1,           LeftMotor1,           tmotorNormal)
+#pragma config(Motor,  port1,           LeftMotor1,           tmotorNormal)
+#pragma config(Motor,  port1,           LeftMotor1,           tmotorNormal)
+#pragma config(Motor,  port1,           LeftMotor1,           tmotorNormal)
